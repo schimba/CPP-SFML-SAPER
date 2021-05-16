@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/c/242016/SpaerDeluxe/Plansza.cpp
+time.h
+-
+Plansza.h
+/home/c/242016/SpaerDeluxe/Plansza.h
+
+/home/c/242016/SpaerDeluxe/Plansza.h
+SFML/Graphics/RenderWindow.hpp
+-
+SFML/Graphics/RectangleShape.hpp
+-
+Pole.h
+/home/c/242016/SpaerDeluxe/Pole.h
+
+/home/c/242016/SpaerDeluxe/Pole.cpp
+Pole.h
+/home/c/242016/SpaerDeluxe/Pole.h
+
+/home/c/242016/SpaerDeluxe/Pole.h
+iostream
+-
+
+/home/c/242016/SpaerDeluxe/main.cpp
+iostream
+-
+Plansza.h
+/home/c/242016/SpaerDeluxe/Plansza.h
+SFML/Graphics.hpp
+-
+
