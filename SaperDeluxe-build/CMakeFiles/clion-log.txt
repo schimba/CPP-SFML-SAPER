@@ -1,0 +1,5 @@
+"E:\Programy\CLion\CLion 2017.3.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" C:\Users\Piotrek\Desktop\Sapyr
+-- Found SFML 2.4.2 in E:/BIBLIOTEKI/SFML/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Piotrek/Desktop/Sapyr/cmake-build-release
